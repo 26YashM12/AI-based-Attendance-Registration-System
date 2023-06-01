@@ -1,11 +1,5 @@
-This is a face recognition attendance system.
+# AI Based Attendance Registration System
+## About
+Attendance Management keeps track of your employee or students present/absent details. It is the system to document the time your employees/students work and the time they take off.
 
-On website there are two options --> Create User and Mark Attendance
-
-Creating a User will take 50 photos to train the model and get the correct name of User.
-
-Then after creating user, we can mark their attendance and model will automatically detect who is the user.
-
-The person's attendance for that day will be displayed on the webpage as well as in the .csv file.
-
-To use this project, just install the dependencies and hit play, it will be hosted on localhost.
+In this digital era, face recognition system plays a vital role in almost every sector. Face recognition is one of the mostly used biometrics. It can used for security, authentication, identification.
